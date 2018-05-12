@@ -1,0 +1,32 @@
+_repo: Holman-HuntMasterpieces-in-Colour_36347
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36347-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Coleridge, Mary E. (Mary Elizabeth)
+    aliases:
+    - Coleridge, Mary Elizabeth
+    - Coleridge, M. E. (Mary Elizabeth)
+    birthdate: 1861
+    deathdate: 1907
+    gutenberg_agent_id: '38221'
+    url: http://www.gutenberg.org/2009/agents/38221
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2011-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36347'
+  lccn: 09003408
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Hunt, William Holman, 1827-1910'
+title: Holman Hunt
+url: http://www.gutenberg.org/ebooks/36347
